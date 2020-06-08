@@ -14,7 +14,7 @@ class Restaurants extends Component {
         </ul>
       </div>
     );
-  }
+  } 
 };
 
 const mapStateToProps = state => {
